@@ -12,6 +12,12 @@ This project involves creating a simple virtual machine (VM) with its own progra
 
 The project is currently under development, with frequent updates being made to enhance and expand its features. Feel free to check regularly for updates.
 
+## Current Focus
+
+- Adding NebulaC++ 1.1
+- Update RegScript 1.1 to RegScript 1.1*Boost*
+- 
+
 ## Features
 
 - Basic virtual machine
