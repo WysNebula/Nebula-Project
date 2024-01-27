@@ -16,7 +16,6 @@ The project is currently under development, with frequent updates being made to 
 
 - Adding NebulaC++ 1.1
 - Update RegScript 1.1 to RegScript 1.1*Boost*
-- 
 
 ## Features
 
